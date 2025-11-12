@@ -1,6 +1,6 @@
-package leetcode75.MergeStringsAlternatively;
+package MergeStringsAlternatively;
 
-public class Solution {
+class Solution {
    public String mergeAlternately(String word1, String word2) {
         int maxLength = Math.max(word1.length(), word2.length());
         int minLength = Math.min(word1.length(), word2.length());

@@ -1,4 +1,4 @@
-package leetcode75.MergeStringsAlternatively;
+package MergeStringsAlternatively;
 
 /**
  * This solution is more efficient because
