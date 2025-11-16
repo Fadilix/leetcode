@@ -11,7 +11,6 @@
 
 # print(Solution.gcdOfStrings("ABCABC", "ABC"))
 
-
 # more efficient
 class Solution:
     def gcd(self, a, b):
